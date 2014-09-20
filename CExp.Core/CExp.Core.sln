@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "CExp.Core", "CExp.Core\CExp.Core.vbproj", "{F98F702F-CF4B-4328-96B2-3619C002B09B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F98F702F-CF4B-4328-96B2-3619C002B09B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F98F702F-CF4B-4328-96B2-3619C002B09B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F98F702F-CF4B-4328-96B2-3619C002B09B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F98F702F-CF4B-4328-96B2-3619C002B09B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
